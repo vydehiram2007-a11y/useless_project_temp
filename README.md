@@ -2,34 +2,33 @@
 
 
 
-# [Project Name] 🎯
+# [The Important Button] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [GPT 2.0]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Aneena Anna Simon] - [St.Thomas College Ranni]
+- Member 2: [Vydehi Ram] - [St.Thomas College Ranni]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The important Button is a satirical web application design with a high-tech,serious interface that intentionally accomplishes nothing meaningful when used.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Humanity is suffering from a severe deficit of high-stakes visual tension that leads to absolutely nothing.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We built a hyper-dramatic loading animation that builds intense suspense just to inform you that zero work has done.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [TypeScript, HTML, CSS]
+- [React]
+- [Lucide React]
+- [Vite,Google AI Studio]
 
 For Hardware:
 - [List main components]
@@ -39,10 +38,10 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[git clone https://github.com/your-username/the-important-button.git cd the-important-button npm install]
 
 # Run
-[commands]
+[npm run dev]
 
 ### Project Documentation
 For Software:
